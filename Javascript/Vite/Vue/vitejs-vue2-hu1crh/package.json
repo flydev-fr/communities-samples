@@ -1,0 +1,20 @@
+{
+  "name": "vue2-vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.4",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.9",
+    "vite": "^2.7.5",
+    "vite-plugin-vue2": "^1.4.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
